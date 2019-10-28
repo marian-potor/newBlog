@@ -1,3 +1,3 @@
 
 # Blog 
-A simple blog made using bootstrap!!!
+A simple blog made using bootstrap!!!(updated)
